@@ -1,5 +1,8 @@
 security patch main.c
 security patch feature1
+<<<<<<< HEAD
 security patch feature2
-modified again
 
+=======
+modified again
+>>>>>>> feature1
